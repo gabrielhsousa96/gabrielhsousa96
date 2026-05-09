@@ -38,20 +38,5 @@ Atualmente me dedicando ao estudo da **língua japonesa** e ao aprimoramento de 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhsousa96&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-### 📊 Linguagens e Atividades
-
-<div align="center">
-  <!-- Esta é a linha horizontal de linguagens que você pediu -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhsousa96&theme=tokyonight&hide_border=true" />
-</div>
 
 
