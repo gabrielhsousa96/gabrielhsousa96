@@ -22,9 +22,6 @@ Atualmente me dedicando ao estudo da **língua japonesa** e ao aprimoramento de 
 
 ---
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hiago-761544138/)
-
 ### 📊 Estatísticas do GitHub
 
 ---
@@ -38,5 +35,8 @@ Atualmente me dedicando ao estudo da **língua japonesa** e ao aprimoramento de 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhsousa96&theme=tokyonight&hide_border=true" />
 </div>
 
+---
 
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hiago-761544138/)
 
