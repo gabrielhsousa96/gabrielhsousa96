@@ -20,8 +20,8 @@ Sou um profissional focado em transformar dados em soluções inteligentes e aut
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=tokyonight&cache_seconds=1" />
+  <img height="150em" src="https://github-cards.vercel.app/api/stats?username=gabrielhsousa96&theme=tokyonight" />
+  <img height="150em" src="https://github-cards.vercel.app/api/langs?username=gabrielhsousa96&theme=tokyonight&layout=compact" />
 </div>
 
 <div align="center">
