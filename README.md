@@ -19,10 +19,10 @@ Sou um profissional focado em transformar dados em soluções inteligentes e aut
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Gabriel" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
