@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Gráfico de Atividades e Métricas -->
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=dark)
 
 ### 🛠 Tecnologias e Ferramentas
 
