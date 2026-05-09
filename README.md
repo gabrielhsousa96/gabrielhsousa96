@@ -16,12 +16,24 @@ Sou um profissional focado em transformar dados em soluções inteligentes e aut
 | **Outros** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
-
+<!---
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Gabriel" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
+--->
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-six-rebrand.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhsousa96&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
