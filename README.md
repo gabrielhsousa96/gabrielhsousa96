@@ -18,11 +18,11 @@ Sou um profissional focado em transformar dados em soluções inteligentes e aut
 ---
 
 ### 📊 Estatísticas do GitHub
-<!--
+
 <div align="center">
-  <img height="150em" src="https://github-cards.vercel.app/api/stats?username=gabrielhsousa96&theme=tokyonight" />
-  <img height="150em" src="https://github-cards.vercel.app/api/langs?username=gabrielhsousa96&theme=tokyonight&layout=compact" />
-</div> --->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhsousa96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsousa96&layout=compact&theme=tokyonight" />
+</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhsousa96&theme=tokyonight&hide_border=true" />
@@ -36,4 +36,4 @@ Atualmente me dedicando ao estudo da **língua japonesa** e ao aprimoramento de 
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/gabriel-hiago-761544138/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hiago-761544138/)
